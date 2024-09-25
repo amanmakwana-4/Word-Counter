@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Word-Counter/static/css/main.be0c93d8.chunk.css",
+    "main.js": "/Word-Counter/static/js/main.4d070cf2.chunk.js",
+    "main.js.map": "/Word-Counter/static/js/main.4d070cf2.chunk.js.map",
+    "runtime~main.js": "/Word-Counter/static/js/runtime~main.42e4a96a.js",
+    "runtime~main.js.map": "/Word-Counter/static/js/runtime~main.42e4a96a.js.map",
+    "static/js/2.ca150098.chunk.js": "/Word-Counter/static/js/2.ca150098.chunk.js",
+    "static/js/2.ca150098.chunk.js.map": "/Word-Counter/static/js/2.ca150098.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/Word-Counter/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/Word-Counter/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/Word-Counter/index.html",
+    "precache-manifest.3fb21f60ff1d62934c0dc20aa488a9ba.js": "/Word-Counter/precache-manifest.3fb21f60ff1d62934c0dc20aa488a9ba.js",
+    "service-worker.js": "/Word-Counter/service-worker.js",
+    "static/css/main.be0c93d8.chunk.css.map": "/Word-Counter/static/css/main.be0c93d8.chunk.css.map"
+  }
+}
